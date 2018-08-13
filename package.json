@@ -1,0 +1,12 @@
+{
+  "name": "heroku-hack",
+  "version": "0.1.0",
+  "main": "index.js",
+  "dependencies": {
+    "micro": "latest",
+    "node-fetch": "^2.2.0"
+  },
+  "scripts": {
+    "start": "micro"
+  }
+}
